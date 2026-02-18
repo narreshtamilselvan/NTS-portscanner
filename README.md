@@ -43,7 +43,7 @@ For each open port:
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/narreshtamilselvan.git
+git clone https://github.com/narreshtamilselvan
 
 css
 Copy code
