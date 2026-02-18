@@ -102,4 +102,4 @@ Only scan systems you own or have explicit permission to test.
 ## 👨‍💻 Author
 
 Narresh Tamilselvan  
-First Year Cyber Security Student  
+Cyber Security Student  
